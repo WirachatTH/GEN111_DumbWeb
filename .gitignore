@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+
+# Temporary Parcel files
+.parcel-cache/
+dist/
+
+# Operating System files
+.DS_Store
+Thumbs.db

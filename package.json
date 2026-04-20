@@ -1,0 +1,22 @@
+{
+  "name": "gen111_website",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WirachatTH/GEN111_DumbWeb.git"
+  },
+  "license": "ISC",
+  "author": "Wirachat Thonguthaisri",
+  "type": "module",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html --public-url ./"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "chart.js": "^4.5.1"
+  }
+}
